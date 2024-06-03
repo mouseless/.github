@@ -28,4 +28,4 @@ contribution rate that aligns with their level of experience in the field.
 We believe the key to build a long-term partnership is the eagerness to meet new
 people anytime anywhere.
 
-[Reach out](https://linkedin.com/mouseless-collective)
+[Reach out](https://linkedin.com/company/mouseless-collective)
