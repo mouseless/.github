@@ -1,9 +1,9 @@
 ### A software development collective;
 # Connected through the craft
 
-[Our collective](https://mouseless.codes) is a team of software engineers guided
-by our people-centric philosophy, focusing on delivering quality work
-collaboratively.
+[Our collective](https://mouseless.codes/our-collective) is a team of software
+engineers guided by our people-centric philosophy, focusing on delivering
+quality work collaboratively.
 
 ## Our structure
 
