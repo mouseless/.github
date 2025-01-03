@@ -28,4 +28,12 @@ contribution rate that aligns with their level of experience in the field.
 We believe the key to build a long-term partnership is the eagerness to meet new
 people anytime anywhere.
 
-[Reach out](https://linkedin.com/company/mouseless-collective)
+## Reach out
+
+Send an e-mail to [connect@mouseless.codes](mailto:connect@mouseless.codes).
+
+Or join our matrix space via
+[#collective:mouseless.org](https://matrix.to/#/#collective:mouseless.org)
+
+Or visit our LinkedIn page
+[linkedin/mouseless-collective](https://linkedin.com/company/mouseless-collective)
