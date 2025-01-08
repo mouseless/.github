@@ -30,7 +30,7 @@ people anytime anywhere.
 
 ## Reach out
 
-Send an e-mail to [connect@mouseless.codes](mailto:connect@mouseless.codes).
+Send an e-mail to [connect@mouseless.codes](mailto:connect@mouseless.codes)
 
 Or join our matrix space via
 [#collective:mouseless.org](https://matrix.to/#/#collective:mouseless.org)
