@@ -1,5 +1,4 @@
-### A software developer collective;
-# Connected through the craft
+# A software developer collective, connected through the craft
 
 [Our collective](https://mouseless.org/our-collective) is a team of software
 developers guided by our people-centric philosophy, focusing on delivering
