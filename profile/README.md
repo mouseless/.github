@@ -1,13 +1,13 @@
-### A software development collective;
+### A software developer collective;
 # Connected through the craft
 
-[Our collective](https://mouseless.codes/our-collective) is a team of software
-engineers guided by our people-centric philosophy, focusing on delivering
+[Our collective](https://mouseless.org/our-collective) is a team of software
+developers guided by our people-centric philosophy, focusing on delivering
 quality work collaboratively.
 
 ## Our structure
 
-At Mouseless, we function as a cohesive team of engineers. Our structure is
+At Mouseless, we function as a cohesive team of developers. Our structure is
 designed to promote collaboration and communication, aligning with our
 people-centric philosophy.
 
@@ -19,18 +19,17 @@ which eventually leads to excellence.
 
 ## Our people
 
-We are independent engineers who are committed to work in accordance with [the
-mouseless way](https://mouseless.codes/how-we-work) where everyone has a
+We are independent developers who are committed to work in accordance with [the
+mouseless way](https://mouseless.org/how-we-work) where everyone has a
 contribution rate that aligns with their level of experience in the field.
 
-# Let's meet
+# Let's connect
 
-We believe the key to build a long-term partnership is the eagerness to meet new
-people anytime anywhere.
+If what you see feels like a fit, we’d be happy to meet.
 
-## Reach out
+## Join us
 
-Send an e-mail to [connect@mouseless.codes](mailto:connect@mouseless.codes)
+Send an e-mail to [connect@mouseless.org](mailto:connect@mouseless.org)
 
 Or join our matrix space via
 [#collective:mouseless.org](https://matrix.to/#/#collective:mouseless.org)
